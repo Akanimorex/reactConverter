@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
+import Footer from './Footer';
 
 
 
@@ -47,7 +48,7 @@ handleChange =(event)=>{
 
         
       </div>
-      
+        <Footer/>
       
     </div>
     );
